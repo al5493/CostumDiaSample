@@ -12,8 +12,8 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    LinearLayout mydialog;
     AlertDialog.Builder adb;
+    LinearLayout mydialog;
     EditText eTName, eTPass;
 
     @Override
